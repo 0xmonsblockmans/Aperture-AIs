@@ -212,7 +212,7 @@
                       }),
                       sx: { pl: 2.5, pr: 3 },
                       onClick: () =>
-                        window.open("https://app.aperture.finance"),
+                        window.open("https://app.apertureai.xyz/"),
                       children: "Launch App",
                     }),
                   ],
@@ -2037,7 +2037,7 @@
                         color: "#F9C13D",
                         letterSpacing: 0,
                         onClick: () =>
-                          window.open("https://app.aperture.finance"),
+                          window.open("https://app.apertureai.xyz/"),
                         children: "Launch App",
                       }),
                       (0, i.tZ)(a.J, {
@@ -2177,7 +2177,7 @@
                 ? t.push(h._T)
                 : 0 === u
                 ? t.push(h.s6)
-                : 2 === u && window.open("https://app.aperture.finance");
+                : 2 === u && window.open("https://app.apertureai.xyz/");
             },
             k = (t) =>
               2 === t
