@@ -1695,7 +1695,7 @@
                           }),
                           (0, i.tZ)("li", {
                             children: (0, i.tZ)("a", {
-                              href: "http://app.ApertureAI.xyz",
+                              href: "https://app.apertureai.xyz/",
                               target: "_blank",
                               children: "ApertureAI Product",
                             }),
@@ -1802,14 +1802,14 @@
                           }),
                           (0, i.tZ)("li", {
                             children: (0, i.tZ)("a", {
-                              href: "http://app.ApertureAI.xyzprivacy",
+                              href: "https://app.apertureai.xyz/privacy",
                               target: "_blank",
                               children: "Privacy Policy",
                             }),
                           }),
                           (0, i.tZ)("li", {
                             children: (0, i.tZ)("a", {
-                              href: "http://app.ApertureAI.xyzterms",
+                              href: "https://app.apertureai.xyz/terms",
                               target: "_blank",
                               children: "Terms & Conditions",
                             }),
