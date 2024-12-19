@@ -1568,8 +1568,8 @@
         l = n(3411),
         d = n(5801);
       let c = {
-          telegram: "https://t.me/",   
-          "x.com": "https://x.com/",
+          telegram: "https://t.me/ApertureAI_eth",   
+          "x.com": "https://x.com/ApertureAI_eth",
         },
         p = (t) => {
           let {
